@@ -1,3 +1,3 @@
 # modernBrand-reactNode-js
 <br/>
-Author: Mayuri Chavan
+Author: Mayuri Anna Chavan
